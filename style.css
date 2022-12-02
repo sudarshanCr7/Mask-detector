@@ -1,0 +1,12 @@
+body{
+    background-image: url("https://img.freepik.com/premium-photo/colour-smoke-background_71163-197.jpg?w=360");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 40px;
+    color:white;
+    text-align: center;
+    background-color: black;
+    width: 100%;
+}
